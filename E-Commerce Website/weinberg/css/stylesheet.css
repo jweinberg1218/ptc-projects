@@ -1,0 +1,82 @@
+body {
+	background-color: #B0C4DE;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #00008B;
+}
+
+small {
+	color: #00008B;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+	display: inline-block;
+}
+
+a.menuItem:link, a.menuItem:visited {
+    display: block;
+    width: 120px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #0000FF;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a.menuItem:hover, a.menuItem:active {
+    background-color: #00008B;
+}
+
+p.paragraph {
+	text-align: left;
+}
+
+div#content {
+	width: 75%;
+}
+
+div#buttons {
+	text-align: left;
+}
+
+div#price {
+	text-align: right;
+}
+
+table#searchResults {
+	border-collapse: collapse;
+	text-align: center;
+}
+
+table#searchResults, tr.searchResults, td.searchResults, th.searchResults {
+	border: 1px solid black;
+}
+
+td#description {
+	text-align: left;
+}
+
+td#buttons {
+	text-align: right;
+}
+
+img#books {
+	width: 20%;
+	height: 20%;
+}
+
+input#qty {
+	width: 20px;
+	height: 20px;
+	text-align: center;
+}
