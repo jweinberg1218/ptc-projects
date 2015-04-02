@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="9a030dd9-deda-4e97-a873-b6a49b0f4275" name="jjw21@FSTU603021 2015-01-06 09:52:18" runUser="PTI_DOMAIN\jjw21" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="0ce4526c-c98a-4aba-a822-0d3bbdb33cda">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="jjw21_FSTU603021 2015-01-06 09_52_18">
+      <DeploymentItem filename="D:\GourmetCoffee\GourmetCoffee\bin\Debug\GourmetCoffee.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-01-06T09:52:18.6755770-05:00" queuing="2015-01-06T09:52:18.7067772-05:00" start="2015-01-06T09:52:18.7223773-05:00" finish="2015-01-06T09:52:18.8939784-05:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="8" executed="8" passed="6" error="0" failed="2" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestGetProduct" storage="d:\gourmetcoffee\gourmetcoffeetest\bin\debug\gourmetcoffeetest.dll" id="257ba677-d173-c863-43e9-38e72359c959">
+      <Execution id="a11ff43b-7aa7-40cc-9532-0c9fccb344fd" />
+      <TestMethod codeBase="D:/GourmetCoffee/GourmetCoffeeTest/bin/Debug/GourmetCoffeeTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GourmetCoffeeTest.CatalogTest, GourmetCoffeeTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestGetProduct" />
+    </UnitTest>
+    <UnitTest name="TestToString" storage="d:\gourmetcoffee\gourmetcoffeetest\bin\debug\gourmetcoffeetest.dll" id="e4dbda89-c43a-6d3b-0253-f3f6ccb78190">
+      <Execution id="e8d01200-465c-4590-87ad-86d3422f9c5f" />
+      <TestMethod codeBase="D:/GourmetCoffee/GourmetCoffeeTest/bin/Debug/GourmetCoffeeTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GourmetCoffeeTest.CoffeeTest, GourmetCoffeeTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestToString" />
+    </UnitTest>
+    <UnitTest name="TestEquals" storage="d:\gourmetcoffee\gourmetcoffeetest\bin\debug\gourmetcoffeetest.dll" id="3faca04a-dabe-29e5-c10d-ddbac2c99f00">
+      <Execution id="721e9ec5-65c6-4ce5-b32c-eb6ed8b12db5" />
+      <TestMethod codeBase="D:/GourmetCoffee/GourmetCoffeeTest/bin/Debug/GourmetCoffeeTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GourmetCoffeeTest.ProductTest, GourmetCoffeeTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestEquals" />
+    </UnitTest>
+    <UnitTest name="TestProperties" storage="d:\gourmetcoffee\gourmetcoffeetest\bin\debug\gourmetcoffeetest.dll" id="d057f2b3-9116-63b7-e7b0-3a54dd64f730">
+      <Execution id="a7d64015-452d-49c0-b75e-48c89243e1ef" />
+      <TestMethod codeBase="D:/GourmetCoffee/GourmetCoffeeTest/bin/Debug/GourmetCoffeeTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GourmetCoffeeTest.CoffeeTest, GourmetCoffeeTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestProperties" />
+    </UnitTest>
+    <UnitTest name="TestProperties" storage="d:\gourmetcoffee\gourmetcoffeetest\bin\debug\gourmetcoffeetest.dll" id="4611bb0f-24a5-e25d-23a9-aeb007046123">
+      <Execution id="dce443f3-3cdf-4969-83fb-729bc609b10d" />
+      <TestMethod codeBase="D:/GourmetCoffee/GourmetCoffeeTest/bin/Debug/GourmetCoffeeTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GourmetCoffeeTest.ProductTest, GourmetCoffeeTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestProperties" />
+    </UnitTest>
+    <UnitTest name="TestAddProduct" storage="d:\gourmetcoffee\gourmetcoffeetest\bin\debug\gourmetcoffeetest.dll" id="41c4145d-52f2-c183-c021-845c1852be99">
+      <Execution id="7efec824-d8f1-4dde-8814-daf65cdbc308" />
+      <TestMethod codeBase="D:/GourmetCoffee/GourmetCoffeeTest/bin/Debug/GourmetCoffeeTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GourmetCoffeeTest.CatalogTest, GourmetCoffeeTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestAddProduct" />
+    </UnitTest>
+    <UnitTest name="TestMethod1" storage="d:\gourmetcoffee\gourmetcoffeetest\bin\debug\gourmetcoffeetest.dll" id="39799c5a-9433-5377-8e31-d2a067186b7a">
+      <Execution id="f0c400bf-067c-4415-80c1-3da85acacbef" />
+      <TestMethod codeBase="D:/GourmetCoffee/GourmetCoffeeTest/bin/Debug/GourmetCoffeeTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GourmetCoffeeTest.CoffeeBrewerTest, GourmetCoffeeTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+    <UnitTest name="TestToString" storage="d:\gourmetcoffee\gourmetcoffeetest\bin\debug\gourmetcoffeetest.dll" id="ba99785b-d2ea-9d44-19d0-7ec351628353">
+      <Execution id="0935ec6a-03ca-4060-8cb5-fc7a8fdfd52b" />
+      <TestMethod codeBase="D:/GourmetCoffee/GourmetCoffeeTest/bin/Debug/GourmetCoffeeTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GourmetCoffeeTest.ProductTest, GourmetCoffeeTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestToString" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="257ba677-d173-c863-43e9-38e72359c959" executionId="a11ff43b-7aa7-40cc-9532-0c9fccb344fd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="39799c5a-9433-5377-8e31-d2a067186b7a" executionId="f0c400bf-067c-4415-80c1-3da85acacbef" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3faca04a-dabe-29e5-c10d-ddbac2c99f00" executionId="721e9ec5-65c6-4ce5-b32c-eb6ed8b12db5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="41c4145d-52f2-c183-c021-845c1852be99" executionId="7efec824-d8f1-4dde-8814-daf65cdbc308" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4611bb0f-24a5-e25d-23a9-aeb007046123" executionId="dce443f3-3cdf-4969-83fb-729bc609b10d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ba99785b-d2ea-9d44-19d0-7ec351628353" executionId="0935ec6a-03ca-4060-8cb5-fc7a8fdfd52b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d057f2b3-9116-63b7-e7b0-3a54dd64f730" executionId="a7d64015-452d-49c0-b75e-48c89243e1ef" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e4dbda89-c43a-6d3b-0253-f3f6ccb78190" executionId="e8d01200-465c-4590-87ad-86d3422f9c5f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="a11ff43b-7aa7-40cc-9532-0c9fccb344fd" testId="257ba677-d173-c863-43e9-38e72359c959" testName="TestGetProduct" computerName="FSTU603021" duration="00:00:00.0239436" startTime="2015-01-06T09:52:18.7223773-05:00" endTime="2015-01-06T09:52:18.8627782-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a11ff43b-7aa7-40cc-9532-0c9fccb344fd">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method GourmetCoffeeTest.CatalogTest.TestGetProduct threw exception: 
+System.NullReferenceException: Object reference not set to an instance of an object.</Message>
+          <StackTrace>    at GourmetCoffee.Product.Equals(Object obj) in D:\GourmetCoffee\GourmetCoffee\Product.cs:line 25
+   at GourmetCoffeeTest.CatalogTest.TestGetProduct() in D:\GourmetCoffee\GourmetCoffeeTest\CatalogTest.cs:line 65
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f0c400bf-067c-4415-80c1-3da85acacbef" testId="39799c5a-9433-5377-8e31-d2a067186b7a" testName="TestMethod1" computerName="FSTU603021" duration="00:00:00.0001837" startTime="2015-01-06T09:52:18.8627782-05:00" endTime="2015-01-06T09:52:18.8627782-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f0c400bf-067c-4415-80c1-3da85acacbef">
+    </UnitTestResult>
+    <UnitTestResult executionId="721e9ec5-65c6-4ce5-b32c-eb6ed8b12db5" testId="3faca04a-dabe-29e5-c10d-ddbac2c99f00" testName="TestEquals" computerName="FSTU603021" duration="00:00:00.0002939" startTime="2015-01-06T09:52:18.8627782-05:00" endTime="2015-01-06T09:52:18.8627782-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="721e9ec5-65c6-4ce5-b32c-eb6ed8b12db5">
+    </UnitTestResult>
+    <UnitTestResult executionId="7efec824-d8f1-4dde-8814-daf65cdbc308" testId="41c4145d-52f2-c183-c021-845c1852be99" testName="TestAddProduct" computerName="FSTU603021" duration="00:00:00.0004029" startTime="2015-01-06T09:52:18.8627782-05:00" endTime="2015-01-06T09:52:18.8627782-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7efec824-d8f1-4dde-8814-daf65cdbc308">
+    </UnitTestResult>
+    <UnitTestResult executionId="dce443f3-3cdf-4969-83fb-729bc609b10d" testId="4611bb0f-24a5-e25d-23a9-aeb007046123" testName="TestProperties" computerName="FSTU603021" duration="00:00:00.0002823" startTime="2015-01-06T09:52:18.8627782-05:00" endTime="2015-01-06T09:52:18.8627782-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dce443f3-3cdf-4969-83fb-729bc609b10d">
+    </UnitTestResult>
+    <UnitTestResult executionId="0935ec6a-03ca-4060-8cb5-fc7a8fdfd52b" testId="ba99785b-d2ea-9d44-19d0-7ec351628353" testName="TestToString" computerName="FSTU603021" duration="00:00:00.0003419" startTime="2015-01-06T09:52:18.8783783-05:00" endTime="2015-01-06T09:52:18.8783783-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0935ec6a-03ca-4060-8cb5-fc7a8fdfd52b">
+    </UnitTestResult>
+    <UnitTestResult executionId="a7d64015-452d-49c0-b75e-48c89243e1ef" testId="d057f2b3-9116-63b7-e7b0-3a54dd64f730" testName="TestProperties" computerName="FSTU603021" duration="00:00:00.0009782" startTime="2015-01-06T09:52:18.8783783-05:00" endTime="2015-01-06T09:52:18.8783783-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a7d64015-452d-49c0-b75e-48c89243e1ef">
+    </UnitTestResult>
+    <UnitTestResult executionId="e8d01200-465c-4590-87ad-86d3422f9c5f" testId="e4dbda89-c43a-6d3b-0253-f3f6ccb78190" testName="TestToString" computerName="FSTU603021" duration="00:00:00.0020363" startTime="2015-01-06T09:52:18.8783783-05:00" endTime="2015-01-06T09:52:18.8783783-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e8d01200-465c-4590-87ad-86d3422f9c5f">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.IsTrue failed. </Message>
+          <StackTrace>   at GourmetCoffeeTest.CoffeeTest.TestToString() in D:\GourmetCoffee\GourmetCoffeeTest\CoffeeTest.cs:line 44
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

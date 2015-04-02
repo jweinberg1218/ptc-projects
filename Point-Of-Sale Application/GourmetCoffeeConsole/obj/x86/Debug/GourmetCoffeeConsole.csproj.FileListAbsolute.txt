@@ -1,0 +1,14 @@
+C:\Users\jjw21\Downloads\GourmetCoffee\GourmetCoffeeConsole\bin\Debug\GourmetCoffeeConsole.exe
+C:\Users\jjw21\Downloads\GourmetCoffee\GourmetCoffeeConsole\bin\Debug\GourmetCoffeeConsole.pdb
+C:\Users\jjw21\Downloads\GourmetCoffee\GourmetCoffeeConsole\obj\x86\Debug\GourmetCoffeeConsole.exe
+C:\Users\jjw21\Downloads\GourmetCoffee\GourmetCoffeeConsole\obj\x86\Debug\GourmetCoffeeConsole.pdb
+D:\GourmetCoffee\GourmetCoffeeConsole\bin\Debug\GourmetCoffeeConsole.exe
+D:\GourmetCoffee\GourmetCoffeeConsole\bin\Debug\GourmetCoffeeConsole.pdb
+D:\GourmetCoffee\GourmetCoffeeConsole\obj\x86\Debug\GourmetCoffeeConsole.exe
+D:\GourmetCoffee\GourmetCoffeeConsole\obj\x86\Debug\GourmetCoffeeConsole.pdb
+D:\GourmetCoffee\GourmetCoffeeConsole\bin\Debug\GourmetCoffee.dll
+D:\GourmetCoffee\GourmetCoffeeConsole\bin\Debug\GourmetCoffee.pdb
+D:\GourmetCoffee\GourmetCoffeeConsole\obj\x86\Debug\GourmetCoffeeConsole.csprojResolveAssemblyReference.cache
+C:\Users\jjw21\Downloads\GourmetCoffee\GourmetCoffeeConsole\bin\Debug\GourmetCoffee.dll
+C:\Users\jjw21\Downloads\GourmetCoffee\GourmetCoffeeConsole\bin\Debug\GourmetCoffee.pdb
+C:\Users\jjw21\Downloads\GourmetCoffee\GourmetCoffeeConsole\obj\x86\Debug\GourmetCoffeeConsole.csprojResolveAssemblyReference.cache

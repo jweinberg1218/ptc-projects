@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="b4dbf107-03ba-42c9-adf0-a294159486fe" name="jjw21@FSTU603020 2015-01-07 13:03:21" runUser="PTI_DOMAIN\jjw21" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="0ce4526c-c98a-4aba-a822-0d3bbdb33cda">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="jjw21_FSTU603020 2015-01-07 13_03_21">
+      <DeploymentItem filename="C:\Users\jjw21\Downloads\GourmetCoffee\GourmetCoffee\bin\Debug\GourmetCoffee.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-01-07T13:03:21.4832748-05:00" queuing="2015-01-07T13:03:22.6220748-05:00" start="2015-01-07T13:03:22.6844748-05:00" finish="2015-01-07T13:03:23.1992748-05:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="2" executed="2" passed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestToString" storage="c:\users\jjw21\downloads\gourmetcoffee\gourmetcoffeetest\bin\debug\gourmetcoffeetest.dll" id="7bacb6f6-6a2f-ee0b-995c-8a7c66674eff">
+      <Execution id="d7233071-741d-4bfb-b0b2-013a336b2770" />
+      <TestMethod codeBase="C:/Users/jjw21/Downloads/GourmetCoffee/GourmetCoffeeTest/bin/Debug/GourmetCoffeeTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GourmetCoffeeTest.OrderItemTest, GourmetCoffeeTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestToString" />
+    </UnitTest>
+    <UnitTest name="TestProperties" storage="c:\users\jjw21\downloads\gourmetcoffee\gourmetcoffeetest\bin\debug\gourmetcoffeetest.dll" id="8ce54ffd-35ae-8101-c303-e70402ae9438">
+      <Execution id="7b81b827-5cc3-4bd3-a928-c4428f69e0ef" />
+      <TestMethod codeBase="C:/Users/jjw21/Downloads/GourmetCoffee/GourmetCoffeeTest/bin/Debug/GourmetCoffeeTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GourmetCoffeeTest.OrderItemTest, GourmetCoffeeTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestProperties" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="7bacb6f6-6a2f-ee0b-995c-8a7c66674eff" executionId="d7233071-741d-4bfb-b0b2-013a336b2770" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8ce54ffd-35ae-8101-c303-e70402ae9438" executionId="7b81b827-5cc3-4bd3-a928-c4428f69e0ef" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="d7233071-741d-4bfb-b0b2-013a336b2770" testId="7bacb6f6-6a2f-ee0b-995c-8a7c66674eff" testName="TestToString" computerName="FSTU603020" duration="00:00:00.0838369" startTime="2015-01-07T13:03:22.7468748-05:00" endTime="2015-01-07T13:03:23.1524748-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d7233071-741d-4bfb-b0b2-013a336b2770">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.IsTrue failed. </Message>
+          <StackTrace>   at GourmetCoffeeTest.OrderItemTest.TestToString() in C:\Users\jjw21\Downloads\GourmetCoffee\GourmetCoffeeTest\OrderItemTest.cs:line 49
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="7b81b827-5cc3-4bd3-a928-c4428f69e0ef" testId="8ce54ffd-35ae-8101-c303-e70402ae9438" testName="TestProperties" computerName="FSTU603020" duration="00:00:00.0004409" startTime="2015-01-07T13:03:23.1524748-05:00" endTime="2015-01-07T13:03:23.1524748-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7b81b827-5cc3-4bd3-a928-c4428f69e0ef">
+    </UnitTestResult>
+  </Results>
+</TestRun>

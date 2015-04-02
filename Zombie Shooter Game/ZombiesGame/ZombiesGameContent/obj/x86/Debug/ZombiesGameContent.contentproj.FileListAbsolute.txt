@@ -1,0 +1,8 @@
+\\student\students\Computer\JJW21\MyDocuments\Visual Studio 2010\Projects\ZombiesGame\ZombiesGame\ZombiesGameContent\obj\x86\Debug\ZombiesGameContent.contentprojResolveAssemblyReference.cache
+U:\MyDocuments\Visual Studio 2010\Projects\ZombiesGame\ZombiesGame\ZombiesGameContent\obj\x86\Debug\ZombiesGameContent.contentprojResolveAssemblyReference.cache
+U:\ZombiesGame\ZombiesGame\ZombiesGameContent\obj\x86\Debug\ZombiesGameContent.contentprojResolveAssemblyReference.cache
+D:\ZombiesGame\ZombiesGame\ZombiesGameContent\obj\x86\Debug\ZombiesGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\jjw21\Downloads\ZombiesGame\ZombiesGame\ZombiesGameContent\obj\x86\Debug\ZombiesGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\jjw21.PTI_DOMAIN.000\Downloads\ZombiesGame (1)\ZombiesGame\ZombiesGameContent\obj\x86\Debug\ZombiesGameContent.contentprojResolveAssemblyReference.cache
+D:\ZombieGame\ZombiesGame\ZombiesGameContent\obj\x86\Debug\ZombiesGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Jason\Downloads\ZombieGame\ZombiesGame\ZombiesGameContent\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="9196f55c-2803-4e0d-98f1-81ff407fe7b9" name="jjw21@FSTU603021 2015-01-06 12:12:26" runUser="PTI_DOMAIN\jjw21" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="0ce4526c-c98a-4aba-a822-0d3bbdb33cda">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="jjw21_FSTU603021 2015-01-06 12_12_26">
+      <DeploymentItem filename="D:\GourmetCoffee\GourmetCoffee\bin\Debug\GourmetCoffee.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-01-06T12:12:26.5756940-05:00" queuing="2015-01-06T12:12:26.5912941-05:00" start="2015-01-06T12:12:26.5912941-05:00" finish="2015-01-06T12:12:26.7628952-05:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="9" executed="9" passed="9" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestGetProduct" storage="d:\gourmetcoffee\gourmetcoffeetest\bin\debug\gourmetcoffeetest.dll" id="257ba677-d173-c863-43e9-38e72359c959">
+      <Execution id="9b607cda-8959-4f52-bbf3-2ab1dad3f12a" />
+      <TestMethod codeBase="D:/GourmetCoffee/GourmetCoffeeTest/bin/Debug/GourmetCoffeeTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GourmetCoffeeTest.CatalogTest, GourmetCoffeeTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestGetProduct" />
+    </UnitTest>
+    <UnitTest name="TestToString" storage="d:\gourmetcoffee\gourmetcoffeetest\bin\debug\gourmetcoffeetest.dll" id="e4dbda89-c43a-6d3b-0253-f3f6ccb78190">
+      <Execution id="9d365982-fb9b-43bc-afb4-19cf02d2d1fc" />
+      <TestMethod codeBase="D:/GourmetCoffee/GourmetCoffeeTest/bin/Debug/GourmetCoffeeTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GourmetCoffeeTest.CoffeeTest, GourmetCoffeeTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestToString" />
+    </UnitTest>
+    <UnitTest name="TestEquals" storage="d:\gourmetcoffee\gourmetcoffeetest\bin\debug\gourmetcoffeetest.dll" id="3faca04a-dabe-29e5-c10d-ddbac2c99f00">
+      <Execution id="adec9e07-be47-4fc3-b3b1-aff00dd91f7d" />
+      <TestMethod codeBase="D:/GourmetCoffee/GourmetCoffeeTest/bin/Debug/GourmetCoffeeTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GourmetCoffeeTest.ProductTest, GourmetCoffeeTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestEquals" />
+    </UnitTest>
+    <UnitTest name="TestProperties" storage="d:\gourmetcoffee\gourmetcoffeetest\bin\debug\gourmetcoffeetest.dll" id="9262c52b-b2e5-5f65-2283-0f91028ce6a2">
+      <Execution id="2c866630-2d8c-4721-9530-e82584aa70e3" />
+      <TestMethod codeBase="D:/GourmetCoffee/GourmetCoffeeTest/bin/Debug/GourmetCoffeeTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GourmetCoffeeTest.CoffeeBrewerTest, GourmetCoffeeTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestProperties" />
+    </UnitTest>
+    <UnitTest name="TestProperties" storage="d:\gourmetcoffee\gourmetcoffeetest\bin\debug\gourmetcoffeetest.dll" id="d057f2b3-9116-63b7-e7b0-3a54dd64f730">
+      <Execution id="22069bef-75a8-4898-8be3-f90b3fd6d559" />
+      <TestMethod codeBase="D:/GourmetCoffee/GourmetCoffeeTest/bin/Debug/GourmetCoffeeTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GourmetCoffeeTest.CoffeeTest, GourmetCoffeeTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestProperties" />
+    </UnitTest>
+    <UnitTest name="TestProperties" storage="d:\gourmetcoffee\gourmetcoffeetest\bin\debug\gourmetcoffeetest.dll" id="4611bb0f-24a5-e25d-23a9-aeb007046123">
+      <Execution id="b9ec8bc1-a043-4de3-a2cb-dfb6da5cfc75" />
+      <TestMethod codeBase="D:/GourmetCoffee/GourmetCoffeeTest/bin/Debug/GourmetCoffeeTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GourmetCoffeeTest.ProductTest, GourmetCoffeeTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestProperties" />
+    </UnitTest>
+    <UnitTest name="TestAddProduct" storage="d:\gourmetcoffee\gourmetcoffeetest\bin\debug\gourmetcoffeetest.dll" id="41c4145d-52f2-c183-c021-845c1852be99">
+      <Execution id="779c22eb-4731-4d55-90d0-7b8aef19cfeb" />
+      <TestMethod codeBase="D:/GourmetCoffee/GourmetCoffeeTest/bin/Debug/GourmetCoffeeTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GourmetCoffeeTest.CatalogTest, GourmetCoffeeTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestAddProduct" />
+    </UnitTest>
+    <UnitTest name="TestToString" storage="d:\gourmetcoffee\gourmetcoffeetest\bin\debug\gourmetcoffeetest.dll" id="b5cf9aaa-283f-5fe7-7b6d-fe0213e164bc">
+      <Execution id="8636ae1c-8233-4d2f-b5d8-deea39aebb5c" />
+      <TestMethod codeBase="D:/GourmetCoffee/GourmetCoffeeTest/bin/Debug/GourmetCoffeeTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GourmetCoffeeTest.CoffeeBrewerTest, GourmetCoffeeTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestToString" />
+    </UnitTest>
+    <UnitTest name="TestToString" storage="d:\gourmetcoffee\gourmetcoffeetest\bin\debug\gourmetcoffeetest.dll" id="ba99785b-d2ea-9d44-19d0-7ec351628353">
+      <Execution id="9cb7a6eb-a231-4744-86ff-ed7bdd5a74dd" />
+      <TestMethod codeBase="D:/GourmetCoffee/GourmetCoffeeTest/bin/Debug/GourmetCoffeeTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GourmetCoffeeTest.ProductTest, GourmetCoffeeTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestToString" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="257ba677-d173-c863-43e9-38e72359c959" executionId="9b607cda-8959-4f52-bbf3-2ab1dad3f12a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3faca04a-dabe-29e5-c10d-ddbac2c99f00" executionId="adec9e07-be47-4fc3-b3b1-aff00dd91f7d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="41c4145d-52f2-c183-c021-845c1852be99" executionId="779c22eb-4731-4d55-90d0-7b8aef19cfeb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4611bb0f-24a5-e25d-23a9-aeb007046123" executionId="b9ec8bc1-a043-4de3-a2cb-dfb6da5cfc75" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9262c52b-b2e5-5f65-2283-0f91028ce6a2" executionId="2c866630-2d8c-4721-9530-e82584aa70e3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b5cf9aaa-283f-5fe7-7b6d-fe0213e164bc" executionId="8636ae1c-8233-4d2f-b5d8-deea39aebb5c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ba99785b-d2ea-9d44-19d0-7ec351628353" executionId="9cb7a6eb-a231-4744-86ff-ed7bdd5a74dd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d057f2b3-9116-63b7-e7b0-3a54dd64f730" executionId="22069bef-75a8-4898-8be3-f90b3fd6d559" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e4dbda89-c43a-6d3b-0253-f3f6ccb78190" executionId="9d365982-fb9b-43bc-afb4-19cf02d2d1fc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="9b607cda-8959-4f52-bbf3-2ab1dad3f12a" testId="257ba677-d173-c863-43e9-38e72359c959" testName="TestGetProduct" computerName="FSTU603021" duration="00:00:00.0121355" startTime="2015-01-06T12:12:26.5912941-05:00" endTime="2015-01-06T12:12:26.7316950-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9b607cda-8959-4f52-bbf3-2ab1dad3f12a">
+    </UnitTestResult>
+    <UnitTestResult executionId="adec9e07-be47-4fc3-b3b1-aff00dd91f7d" testId="3faca04a-dabe-29e5-c10d-ddbac2c99f00" testName="TestEquals" computerName="FSTU603021" duration="00:00:00.0003267" startTime="2015-01-06T12:12:26.7316950-05:00" endTime="2015-01-06T12:12:26.7316950-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="adec9e07-be47-4fc3-b3b1-aff00dd91f7d">
+    </UnitTestResult>
+    <UnitTestResult executionId="779c22eb-4731-4d55-90d0-7b8aef19cfeb" testId="41c4145d-52f2-c183-c021-845c1852be99" testName="TestAddProduct" computerName="FSTU603021" duration="00:00:00.0003413" startTime="2015-01-06T12:12:26.7316950-05:00" endTime="2015-01-06T12:12:26.7316950-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="779c22eb-4731-4d55-90d0-7b8aef19cfeb">
+    </UnitTestResult>
+    <UnitTestResult executionId="b9ec8bc1-a043-4de3-a2cb-dfb6da5cfc75" testId="4611bb0f-24a5-e25d-23a9-aeb007046123" testName="TestProperties" computerName="FSTU603021" duration="00:00:00.0002923" startTime="2015-01-06T12:12:26.7316950-05:00" endTime="2015-01-06T12:12:26.7316950-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b9ec8bc1-a043-4de3-a2cb-dfb6da5cfc75">
+    </UnitTestResult>
+    <UnitTestResult executionId="2c866630-2d8c-4721-9530-e82584aa70e3" testId="9262c52b-b2e5-5f65-2283-0f91028ce6a2" testName="TestProperties" computerName="FSTU603021" duration="00:00:00.0007554" startTime="2015-01-06T12:12:26.7316950-05:00" endTime="2015-01-06T12:12:26.7472951-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2c866630-2d8c-4721-9530-e82584aa70e3">
+    </UnitTestResult>
+    <UnitTestResult executionId="8636ae1c-8233-4d2f-b5d8-deea39aebb5c" testId="b5cf9aaa-283f-5fe7-7b6d-fe0213e164bc" testName="TestToString" computerName="FSTU603021" duration="00:00:00.0004161" startTime="2015-01-06T12:12:26.7472951-05:00" endTime="2015-01-06T12:12:26.7472951-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8636ae1c-8233-4d2f-b5d8-deea39aebb5c">
+    </UnitTestResult>
+    <UnitTestResult executionId="9cb7a6eb-a231-4744-86ff-ed7bdd5a74dd" testId="ba99785b-d2ea-9d44-19d0-7ec351628353" testName="TestToString" computerName="FSTU603021" duration="00:00:00.0003168" startTime="2015-01-06T12:12:26.7472951-05:00" endTime="2015-01-06T12:12:26.7472951-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9cb7a6eb-a231-4744-86ff-ed7bdd5a74dd">
+    </UnitTestResult>
+    <UnitTestResult executionId="22069bef-75a8-4898-8be3-f90b3fd6d559" testId="d057f2b3-9116-63b7-e7b0-3a54dd64f730" testName="TestProperties" computerName="FSTU603021" duration="00:00:00.0006962" startTime="2015-01-06T12:12:26.7472951-05:00" endTime="2015-01-06T12:12:26.7472951-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="22069bef-75a8-4898-8be3-f90b3fd6d559">
+    </UnitTestResult>
+    <UnitTestResult executionId="9d365982-fb9b-43bc-afb4-19cf02d2d1fc" testId="e4dbda89-c43a-6d3b-0253-f3f6ccb78190" testName="TestToString" computerName="FSTU603021" duration="00:00:00.0004340" startTime="2015-01-06T12:12:26.7472951-05:00" endTime="2015-01-06T12:12:26.7472951-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9d365982-fb9b-43bc-afb4-19cf02d2d1fc">
+    </UnitTestResult>
+  </Results>
+</TestRun>

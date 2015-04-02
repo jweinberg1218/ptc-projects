@@ -1,0 +1,15 @@
+D:\GourmetCoffee\GourmetCoffee\bin\Debug\GourmetCoffee.dll
+D:\GourmetCoffee\GourmetCoffee\bin\Debug\GourmetCoffee.pdb
+D:\GourmetCoffee\GourmetCoffee\obj\Debug\GourmetCoffee.dll
+D:\GourmetCoffee\GourmetCoffee\obj\Debug\GourmetCoffee.pdb
+D:\GourmetCoffee\GourmetCoffee\obj\Debug\GourmetCoffee.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Downloads\GourmetCoffee\GourmetCoffee\bin\Debug\GourmetCoffee.dll
+C:\Users\Jason\Downloads\GourmetCoffee\GourmetCoffee\bin\Debug\GourmetCoffee.pdb
+C:\Users\Jason\Downloads\GourmetCoffee\GourmetCoffee\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jason\Downloads\GourmetCoffee\GourmetCoffee\obj\Debug\GourmetCoffee.dll
+C:\Users\Jason\Downloads\GourmetCoffee\GourmetCoffee\obj\Debug\GourmetCoffee.pdb
+C:\Users\jjw21\Downloads\GourmetCoffee\GourmetCoffee\bin\Debug\GourmetCoffee.dll
+C:\Users\jjw21\Downloads\GourmetCoffee\GourmetCoffee\bin\Debug\GourmetCoffee.pdb
+C:\Users\jjw21\Downloads\GourmetCoffee\GourmetCoffee\obj\Debug\GourmetCoffee.csprojResolveAssemblyReference.cache
+C:\Users\jjw21\Downloads\GourmetCoffee\GourmetCoffee\obj\Debug\GourmetCoffee.dll
+C:\Users\jjw21\Downloads\GourmetCoffee\GourmetCoffee\obj\Debug\GourmetCoffee.pdb
